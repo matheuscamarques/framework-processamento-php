@@ -1,9 +1,9 @@
-#Framework Para Processamento
+# Framework Para Processamento
 
-#Em desenvolvimento
+# Em desenvolvimento
 
 *Arquitetura do framework
 
 *Modelos iniciais
 
-##Objetivo principal: Processamento digital de imagens
+## Objetivo principal: Processamento digital de imagens
