@@ -6,4 +6,4 @@
 
 *Modelos iniciais
 
-##Objetivo principal: Desenvolvimento de Software
+##Objetivo principal: Processamento digital de imagens
